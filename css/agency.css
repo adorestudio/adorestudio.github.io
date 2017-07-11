@@ -745,3 +745,14 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+
+.team-header{
+  background-image:url(../img/team-header.jpg);
+  height:500px;
+}
+
+.team-intro{
+  padding-top:150px !important;
+  padding-bottom:150px !important;
+}
