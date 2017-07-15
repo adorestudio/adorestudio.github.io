@@ -757,3 +757,21 @@ body {
   padding-top:150px !important;
   padding-bottom:150px !important;
 }
+
+.table>tbody>tr>td,
+.table>tbody>tr>th {
+  border-top: none;
+}
+
+section h3.section-subheading {
+  margin-bottom:20px;
+}
+
+.service-section{
+  margin-top:60px;
+}
+
+.services-header{
+  background-image:url(../img/services-header.jpg);
+  height:500px;
+}
