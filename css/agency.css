@@ -791,3 +791,7 @@ section h3.section-subheading {
 .price{
   text-align:right;
 }
+
+.single-section{
+  margin-bottom:50px;
+}
