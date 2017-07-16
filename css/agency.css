@@ -775,3 +775,19 @@ section h3.section-subheading {
   background-image:url(../img/services-header.jpg);
   height:500px;
 }
+
+.small-section{
+  padding:40px;
+}
+
+.first-section{
+  padding-top:60px;
+}
+
+.service{
+  text-align: left;
+}
+
+.price{
+  text-align:right;
+}
