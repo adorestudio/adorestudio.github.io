@@ -795,3 +795,40 @@ section h3.section-subheading {
 .single-section{
   margin-bottom:50px;
 }
+
+.product-image{
+  width:600px;
+  height:320px;
+  background-size:600px;
+  display:block;  
+  font-size:4em;
+  color:white;
+  text-align: center;
+  padding-top:20%;
+  margin-bottom:20px;
+
+}
+
+.colorproof{
+  background-image: url('./../img/product/colorproof-base.jpg');
+}
+
+.colorproof:hover{
+  background-image: url('./../img/product/colorproof.jpg');
+}
+
+.lipsense{
+  background-image: url('./../img/product/lipsense-base.jpg');
+}
+
+.lipsense:hover{
+  background-image: url('./../img/product/lipsense.jpg');
+}
+
+.crossroads{
+  background-image: url('./../img/product/crossroads-base.jpg');
+}
+
+.crossroads:hover{
+  background-image:url('./../img/product/crossroads.jpg');
+}
